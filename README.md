@@ -1,4 +1,14 @@
 SerialCamera
 ============
 
-Library for flyport to connect the serial camera model SEN91224P
+* Description
+
+Library for flyport to connect with the serial camera model SEN91224P
+Created by Diego Luca Candido aka joxer
+
+* License
+
+Code is released under GPLv2
+
+
+
